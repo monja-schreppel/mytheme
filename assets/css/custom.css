@@ -6,8 +6,14 @@ Blue Gray:  #3e4249
 
 */
 
-/* ===GENERAL=== */
+/* === GENERAL === */
 
 body {
+    font-family: 'Raleway', Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    background: url('../img/tile.jpg') top left repeat;
+}
+
+#hero {
     margin-top: 50px;
 }
