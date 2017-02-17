@@ -6,13 +6,8 @@ Blue Gray:  #3e4249
 
 */
 
-<<<<<<< HEAD
-/* ===GENERAL=== */
 
-body {
-    margin-top: 50px;
-=======
-/* === GENERAL === */
+/* ===GENERAL=== */
 
 body {
     font-family: 'Raleway', Arial, Helvetica, sans-serif;
@@ -46,5 +41,4 @@ h3 {
 
 h4 {
     font-size: 18px;
->>>>>>> eaf5ac40a8cdd90b5c507eb0257f60a21fc452f4
 }
