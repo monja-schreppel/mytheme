@@ -6,8 +6,45 @@ Blue Gray:  #3e4249
 
 */
 
+<<<<<<< HEAD
 /* ===GENERAL=== */
 
 body {
     margin-top: 50px;
+=======
+/* === GENERAL === */
+
+body {
+    font-family: 'Raleway', Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    background: url('../img/tile.jpg') top left repeat;
+}
+
+#hero {
+    margin-top: 50px;
+}
+
+/* === GLOBAL === */
+
+h1,h2,h3,h4,h5,h6 {
+     -webkit-font-smoothing: antialiased;
+     text-rendering: optimizeLegibility;
+     font-weight: bold;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+h1,h2 {
+    margin: 0 0 40px;
+}
+
+h3 {
+    margin: 20px 0;
+}
+
+h4 {
+    font-size: 18px;
+>>>>>>> eaf5ac40a8cdd90b5c507eb0257f60a21fc452f4
 }
